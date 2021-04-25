@@ -2,5 +2,5 @@
 ```
 Chris Cortes | ccortes@uoregon.edu
 
-A "getting started" project for CIS 322, introduction to software engineering, at the University of Oregon.
+A "getting started with Docker" project for CIS 322, Introduction to Software Engineering, at the University of Oregon.
 ```
